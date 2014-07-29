@@ -1,0 +1,6 @@
+A:\Projects\AI-Lab4\AI-Lab4\bin\Debug\AI-Lab4.exe.config
+A:\Projects\AI-Lab4\AI-Lab4\obj\Debug\AI-Lab4.csprojResolveAssemblyReference.cache
+A:\Projects\AI-Lab4\AI-Lab4\bin\Debug\AI-Lab4.exe
+A:\Projects\AI-Lab4\AI-Lab4\bin\Debug\AI-Lab4.pdb
+A:\Projects\AI-Lab4\AI-Lab4\obj\Debug\AI-Lab4.exe
+A:\Projects\AI-Lab4\AI-Lab4\obj\Debug\AI-Lab4.pdb

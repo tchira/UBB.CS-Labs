@@ -1,0 +1,7 @@
+House,3,15,140,Z1,2001,12
+Flat,2,100,Z4,2003,3
+CommSp,200,Z3,2004,7
+CommSp,200,z12,2004,7
+Flat,wut
+This,doesn't work properly
+this doesn't either

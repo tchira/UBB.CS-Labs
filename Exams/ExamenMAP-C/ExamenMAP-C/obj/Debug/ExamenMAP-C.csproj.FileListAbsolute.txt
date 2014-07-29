@@ -1,0 +1,6 @@
+A:\Projects\ExamenMAP-C\ExamenMAP-C\bin\Debug\ExamenMAP-C.exe.config
+A:\Projects\ExamenMAP-C\ExamenMAP-C\obj\Debug\ExamenMAP-C.csprojResolveAssemblyReference.cache
+A:\Projects\ExamenMAP-C\ExamenMAP-C\bin\Debug\ExamenMAP-C.exe
+A:\Projects\ExamenMAP-C\ExamenMAP-C\bin\Debug\ExamenMAP-C.pdb
+A:\Projects\ExamenMAP-C\ExamenMAP-C\obj\Debug\ExamenMAP-C.exe
+A:\Projects\ExamenMAP-C\ExamenMAP-C\obj\Debug\ExamenMAP-C.pdb

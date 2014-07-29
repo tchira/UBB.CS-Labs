@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vision Screening</string>
+    <string name="hello_world">Vision Screening</string>
+    <string name="show_tests">Available tests</string>
+    <string name="show_text">Show text</string>
+    <string name="stop">Stop</string>
+    <string name="glass_voice_trigger">Vision screening</string>
+    
+</resources>

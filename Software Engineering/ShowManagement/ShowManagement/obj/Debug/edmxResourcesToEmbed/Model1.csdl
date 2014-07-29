@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShowManagementModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="cID" />
+    </Key>
+    <Property Name="cID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="isManager" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Tickets" Relationship="Self.FK__Tickets__client__1DE57479" FromRole="Clients" ToRole="Tickets" />
+  </EntityType>
+  <EntityType Name="Seat">
+    <Key>
+      <PropertyRef Name="Number" />
+    </Key>
+    <Property Name="Number" Type="Int32" Nullable="false" />
+    <Property Name="Row" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Tickets" Relationship="Self.FK__Tickets__seat__1ED998B2" FromRole="Seats" ToRole="Tickets" />
+  </EntityType>
+  <EntityType Name="Show">
+    <Key>
+      <PropertyRef Name="sID" />
+    </Key>
+    <Property Name="sID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Tickets" Relationship="Self.FK__Tickets__show__1FCDBCEB" FromRole="Shows" ToRole="Tickets" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Ticket">
+    <Key>
+      <PropertyRef Name="client" />
+      <PropertyRef Name="seat" />
+      <PropertyRef Name="show" />
+    </Key>
+    <Property Name="client" Type="Int32" Nullable="false" />
+    <Property Name="seat" Type="Int32" Nullable="false" />
+    <Property Name="show" Type="Int32" Nullable="false" />
+    <Property Name="reservationDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="confirmed" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Client1" Relationship="Self.FK__Tickets__client__1DE57479" FromRole="Tickets" ToRole="Clients" />
+    <NavigationProperty Name="Seat1" Relationship="Self.FK__Tickets__seat__1ED998B2" FromRole="Tickets" ToRole="Seats" />
+    <NavigationProperty Name="Show1" Relationship="Self.FK__Tickets__show__1FCDBCEB" FromRole="Tickets" ToRole="Shows" />
+  </EntityType>
+  <Association Name="FK__Tickets__client__1DE57479">
+    <End Role="Clients" Type="Self.Client" Multiplicity="1" />
+    <End Role="Tickets" Type="Self.Ticket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="cID" />
+      </Principal>
+      <Dependent Role="Tickets">
+        <PropertyRef Name="client" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Tickets__seat__1ED998B2">
+    <End Role="Seats" Type="Self.Seat" Multiplicity="1" />
+    <End Role="Tickets" Type="Self.Ticket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Seats">
+        <PropertyRef Name="Number" />
+      </Principal>
+      <Dependent Role="Tickets">
+        <PropertyRef Name="seat" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Tickets__show__1FCDBCEB">
+    <End Role="Shows" Type="Self.Show" Multiplicity="1" />
+    <End Role="Tickets" Type="Self.Ticket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shows">
+        <PropertyRef Name="sID" />
+      </Principal>
+      <Dependent Role="Tickets">
+        <PropertyRef Name="show" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ShowManagementEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clients" EntityType="Self.Client" />
+    <EntitySet Name="Seats" EntityType="Self.Seat" />
+    <EntitySet Name="Shows" EntityType="Self.Show" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Tickets" EntityType="Self.Ticket" />
+    <AssociationSet Name="FK__Tickets__client__1DE57479" Association="Self.FK__Tickets__client__1DE57479">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="Tickets" EntitySet="Tickets" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Tickets__seat__1ED998B2" Association="Self.FK__Tickets__seat__1ED998B2">
+      <End Role="Seats" EntitySet="Seats" />
+      <End Role="Tickets" EntitySet="Tickets" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Tickets__show__1FCDBCEB" Association="Self.FK__Tickets__show__1FCDBCEB">
+      <End Role="Shows" EntitySet="Shows" />
+      <End Role="Tickets" EntitySet="Tickets" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

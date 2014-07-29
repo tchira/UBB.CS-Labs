@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="test_names">
+        <item>Series of characters</item>
+        <item>Series of numbers</item>
+        <item>Astigmatism test</item>
+         </string-array>
+</resources>

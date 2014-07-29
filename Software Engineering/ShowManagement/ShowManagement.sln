@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowManagement", "ShowManagement\ShowManagement.csproj", "{85F2051E-9E17-4284-A9F5-611FB1579A9E}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "C:\Users\Chira\Documents\Visual Studio 2013\Projects\ModelingProject1\ModelingProject1\ModelingProject1.modelproj", "{D900BE3F-7890-4907-8D45-DF1E8D8B9AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85F2051E-9E17-4284-A9F5-611FB1579A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F2051E-9E17-4284-A9F5-611FB1579A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F2051E-9E17-4284-A9F5-611FB1579A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F2051E-9E17-4284-A9F5-611FB1579A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D900BE3F-7890-4907-8D45-DF1E8D8B9AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D900BE3F-7890-4907-8D45-DF1E8D8B9AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D900BE3F-7890-4907-8D45-DF1E8D8B9AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D900BE3F-7890-4907-8D45-DF1E8D8B9AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+1:Info eng:3
+2:Info ro:2
+3:Mate eng:1
+4:Mate ro:0

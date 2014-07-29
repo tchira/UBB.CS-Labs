@@ -1,0 +1,6 @@
+A:\Projects\iquestpb2\iquestpb2\bin\Debug\iquestpb2.exe.config
+A:\Projects\iquestpb2\iquestpb2\obj\Debug\iquestpb2.csprojResolveAssemblyReference.cache
+A:\Projects\iquestpb2\iquestpb2\bin\Debug\iquestpb2.exe
+A:\Projects\iquestpb2\iquestpb2\bin\Debug\iquestpb2.pdb
+A:\Projects\iquestpb2\iquestpb2\obj\Debug\iquestpb2.exe
+A:\Projects\iquestpb2\iquestpb2\obj\Debug\iquestpb2.pdb

@@ -1,0 +1,12 @@
+A:\Projects\DBConsoleApp\DBConsoleApp\bin\Debug\DBConsoleApp.exe.config
+A:\Projects\DBConsoleApp\DBConsoleApp\obj\Debug\DBConsoleApp.csprojResolveAssemblyReference.cache
+A:\Projects\DBConsoleApp\DBConsoleApp\bin\Debug\DBConsoleApp.exe
+A:\Projects\DBConsoleApp\DBConsoleApp\bin\Debug\DBConsoleApp.pdb
+A:\Projects\DBConsoleApp\DBConsoleApp\obj\Debug\DBConsoleApp.exe
+A:\Projects\DBConsoleApp\DBConsoleApp\obj\Debug\DBConsoleApp.pdb
+A:\Projects\DB\DBConsoleApp\DBConsoleApp\bin\Debug\DBConsoleApp.exe.config
+A:\Projects\DB\DBConsoleApp\DBConsoleApp\obj\Debug\DBConsoleApp.exe
+A:\Projects\DB\DBConsoleApp\DBConsoleApp\obj\Debug\DBConsoleApp.pdb
+A:\Projects\DB\DBConsoleApp\DBConsoleApp\obj\Debug\DBConsoleApp.csprojResolveAssemblyReference.cache
+A:\Projects\DB\DBConsoleApp\DBConsoleApp\bin\Debug\DBConsoleApp.exe
+A:\Projects\DB\DBConsoleApp\DBConsoleApp\bin\Debug\DBConsoleApp.pdb

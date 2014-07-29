@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <string-array name="photo_text">
+        <item>Dog?</item>
+        <item>Yes, this is dog</item>
+        <item></item>
+        <item>These are not the photos you\'re looking for</item>
+        <item>Now with more cat</item>
+        <item>More cat</item>
+        <item>Double the cats</item>
+    </string-array>
+    
+</resources>

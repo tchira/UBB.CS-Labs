@@ -1,0 +1,6 @@
+A:\Projects\examenMAP2\examenMAP2\bin\Debug\examenMAP2.exe.config
+A:\Projects\examenMAP2\examenMAP2\obj\Debug\examenMAP2.csprojResolveAssemblyReference.cache
+A:\Projects\examenMAP2\examenMAP2\bin\Debug\examenMAP2.exe
+A:\Projects\examenMAP2\examenMAP2\bin\Debug\examenMAP2.pdb
+A:\Projects\examenMAP2\examenMAP2\obj\Debug\examenMAP2.exe
+A:\Projects\examenMAP2\examenMAP2\obj\Debug\examenMAP2.pdb

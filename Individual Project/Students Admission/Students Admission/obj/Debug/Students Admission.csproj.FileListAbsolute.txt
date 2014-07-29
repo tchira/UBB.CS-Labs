@@ -1,0 +1,12 @@
+A:\Projects\IP\Students Admission\Students Admission\bin\Debug\Students Admission.exe.config
+A:\Projects\IP\Students Admission\Students Admission\bin\Debug\Students Admission.exe
+A:\Projects\IP\Students Admission\Students Admission\bin\Debug\Students Admission.pdb
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students Admission.csprojResolveAssemblyReference.cache
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students_Admission.Properties.Resources.resources
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students Admission.csproj.GenerateResource.Cache
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students Admission.exe
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students Admission.pdb
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students_Admission.Form1.resources
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students_Admission.Statistics.resources
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students_Admission.CandidateForm.resources
+A:\Projects\IP\Students Admission\Students Admission\obj\Debug\Students_Admission.addDepartment.resources

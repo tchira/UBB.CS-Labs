@@ -1,0 +1,22 @@
+E:\Projects\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.exe.config
+E:\Projects\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.csprojResolveAssemblyReference.cache
+E:\Projects\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.exe
+E:\Projects\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.pdb
+E:\Projects\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.exe
+E:\Projects\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.pdb
+A:\Projects\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.exe.config
+A:\Projects\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.exe
+A:\Projects\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.pdb
+A:\Projects\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.exe
+A:\Projects\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.pdb
+A:\Projects\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.csprojResolveAssemblyReference.cache
+A:\Projects\MAP\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.exe.config
+A:\Projects\MAP\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.exe
+A:\Projects\MAP\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.pdb
+A:\Projects\MAP\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.csprojResolveAssemblyReference.cache
+A:\Projects\MAP\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.exe
+A:\Projects\MAP\Csharp lab2\Csharp lab2\bin\Debug\Csharp lab2.pdb
+A:\Projects\MAP\Csharp lab2\Csharp lab2\obj\Debug\Csharp_lab2.Ui.Mainform.resources
+A:\Projects\MAP\Csharp lab2\Csharp lab2\obj\Debug\Csharp lab2.csproj.GenerateResource.Cache
+A:\Projects\MAP\Csharp lab2\Csharp lab2\obj\Debug\Csharp_lab2.Ui.addForm.resources
+A:\Projects\MAP\Csharp lab2\Csharp lab2\obj\Debug\Csharp_lab2.Ui.MainformOld.resources

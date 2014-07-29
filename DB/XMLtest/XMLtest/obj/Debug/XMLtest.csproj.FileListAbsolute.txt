@@ -1,0 +1,12 @@
+A:\Projects\XMLtest\XMLtest\bin\Debug\XMLtest.exe.config
+A:\Projects\XMLtest\XMLtest\obj\Debug\XMLtest.csprojResolveAssemblyReference.cache
+A:\Projects\XMLtest\XMLtest\bin\Debug\XMLtest.exe
+A:\Projects\XMLtest\XMLtest\bin\Debug\XMLtest.pdb
+A:\Projects\XMLtest\XMLtest\obj\Debug\XMLtest.exe
+A:\Projects\XMLtest\XMLtest\obj\Debug\XMLtest.pdb
+A:\Projects\DB\XMLtest\XMLtest\bin\Debug\XMLtest.exe.config
+A:\Projects\DB\XMLtest\XMLtest\obj\Debug\XMLtest.exe
+A:\Projects\DB\XMLtest\XMLtest\obj\Debug\XMLtest.pdb
+A:\Projects\DB\XMLtest\XMLtest\bin\Debug\XMLtest.exe
+A:\Projects\DB\XMLtest\XMLtest\bin\Debug\XMLtest.pdb
+A:\Projects\DB\XMLtest\XMLtest\obj\Debug\XMLtest.csprojResolveAssemblyReference.cache

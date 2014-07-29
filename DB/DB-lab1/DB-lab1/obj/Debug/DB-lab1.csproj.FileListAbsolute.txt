@@ -1,0 +1,9 @@
+A:\Projects\DB-lab1\DB-lab1\bin\Debug\DB-lab1.exe.config
+A:\Projects\DB-lab1\DB-lab1\obj\Debug\DB-lab1.csprojResolveAssemblyReference.cache
+A:\Projects\DB-lab1\DB-lab1\obj\Debug\DB_lab1.Form1.resources
+A:\Projects\DB-lab1\DB-lab1\obj\Debug\DB_lab1.Properties.Resources.resources
+A:\Projects\DB-lab1\DB-lab1\obj\Debug\DB-lab1.csproj.GenerateResource.Cache
+A:\Projects\DB-lab1\DB-lab1\bin\Debug\DB-lab1.exe
+A:\Projects\DB-lab1\DB-lab1\bin\Debug\DB-lab1.pdb
+A:\Projects\DB-lab1\DB-lab1\obj\Debug\DB-lab1.exe
+A:\Projects\DB-lab1\DB-lab1\obj\Debug\DB-lab1.pdb

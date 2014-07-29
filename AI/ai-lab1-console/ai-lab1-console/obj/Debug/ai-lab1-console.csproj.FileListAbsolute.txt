@@ -1,0 +1,6 @@
+A:\Projects\ai-lab1-console\ai-lab1-console\bin\Debug\ai-lab1-console.exe.config
+A:\Projects\ai-lab1-console\ai-lab1-console\bin\Debug\ai-lab1-console.exe
+A:\Projects\ai-lab1-console\ai-lab1-console\bin\Debug\ai-lab1-console.pdb
+A:\Projects\ai-lab1-console\ai-lab1-console\obj\Debug\ai-lab1-console.exe
+A:\Projects\ai-lab1-console\ai-lab1-console\obj\Debug\ai-lab1-console.pdb
+A:\Projects\ai-lab1-console\ai-lab1-console\obj\Debug\ai-lab1-console.csprojResolveAssemblyReference.cache

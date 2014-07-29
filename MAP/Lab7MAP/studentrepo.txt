@@ -1,0 +1,7 @@
+5 Del 10
+1 Mihai 5
+4 Costel 4
+99 Costelus 9
+44 horica mihai 3 2 4
+33 Raducu 7
+66 Tudor 9

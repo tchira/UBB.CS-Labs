@@ -1,0 +1,6 @@
+A:\Projects\iquest3\iquest3\bin\Debug\iquest3.exe.config
+A:\Projects\iquest3\iquest3\bin\Debug\iquest3.exe
+A:\Projects\iquest3\iquest3\bin\Debug\iquest3.pdb
+A:\Projects\iquest3\iquest3\obj\Debug\iquest3.exe
+A:\Projects\iquest3\iquest3\obj\Debug\iquest3.pdb
+A:\Projects\iquest3\iquest3\obj\Debug\iquest3.csprojResolveAssemblyReference.cache
